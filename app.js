@@ -3,7 +3,7 @@ const https = require('https');
 const port = process.env.PORT || 3000;
 
 const TARGET_URLS = {
-   default: 'https://weekly-begin-642975.framer.app/', // Default URL if no match is found
+   default: 'https://broad-majority-186652.framer.app/', // Default URL if no match is found
 };
 
 function getTargetUrl(req) {
