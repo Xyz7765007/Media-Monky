@@ -1,0 +1,15 @@
+{
+    "name": "samar/example-website-xyz-main",
+    "autoload": {
+        "psr-4": {
+            "Samar\\ExampleWebsiteXyzMain\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Xyz7765007",
+            "email": "xyz7765007@gmail.com"
+        }
+    ],
+    "require": {}
+}
